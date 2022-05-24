@@ -6,99 +6,100 @@ Esse repositório foi criado com intuito de armazenar os exercícios propostos n
 
 ### ACESSAR-SISTEMA
 
-[Exercício1](https://link-da-documentação)
+[Exercício1](./Exercicios-de-algoritimo/ACESSAR-SISTEMA.ALG)
 
 ### CADASTRAR-CLIENTE
 
-[Exercício2](https://link-da-documentação)
+[Exercício2](./Exercicios-de-algoritimo/CADASTRAR-CLIENTE.ALG)
 
 ### CALCULADORA
 
-[Exercício3](https://link-da-documentação)
+[Exercício3](./Exercicios-de-algoritimo/CALCULADORA.ALG)
 
 ### CALCULANDO-AREA-E-PERIMETRO
 
-[Exercício4](https://link-da-documentação)
+[Exercício4](./Exercicios-de-algoritimo/CALCULANDO-AREA-E-PERIMETRO.ALG)
 
 ### CALCULANDO-IMC-E-CLASSIFICANDO
 
-[Exercício5](https://link-da-documentação)
+[Exercício5](./Exercicios-de-algoritimo/CALCULANDO-IMC-E-CLASSIFICANDO.ALG)
 
 ### CALCULANDO-IMC
 
-[Exercício6](https://link-da-documentação)
+[Exercício6](./Exercicios-de-algoritimo/CALCULANDO-IMC.ALG)
 
 ### CALCULAR-NOTA-ALUNO
 
-[Exercício7](https://link-da-documentação)
+[Exercício7](./Exercicios-de-algoritimo/CALCULAR-NOTA-ALUNO.ALG)
 
 ### DEPOSITO-CONTA
 
-[Exercício8](https://link-da-documentação)
+[Exercício8](./Exercicios-de-algoritimo/DEPOSITO-CONTA.ALG)
+
 ### ENDEREÇO
 
-[Exercício9](https://link-da-documentação)
+[Exercício9](./Exercicios-de-algoritimo/ENDERE%C3%87O.ALG)
+
 ### LEITURA-TECLADO
 
-[Exercício10](https://link-da-documentação)
+[Exercício10](./Exercicios-de-algoritimo/LEITURA-TECLADO.ALG)
 
 ### MATRIZ
 
-[Exercício11](https://link-da-documentação)
+[Exercício11](./Exercicios-de-algoritimo/MATRIZ.ALG)
 
 ### MULTIPLOS-DE-DOIS
 
-[Exercício12](https://link-da-documentação)
+[Exercício12](./Exercicios-de-algoritimo/MULTIPLOS-DE-DOIS.ALG)
 
 ### MULTIPLOS-DE-TRES
 
-[Exercício13](https://link-da-documentação)
+[Exercício13](./Exercicios-de-algoritimo/MULTIPLOS-DE-TRES.ALG)
 
 ### NOME-IDADE-PESSOA
 
-[Exercício14](https://link-da-documentação)
+[Exercício14](./Exercicios-de-algoritimo/NOME-IDADE-PESSOA.ALG)
 
 ### OPERACAO-BANCARIA-MULTIPLA
 
-[Exercício15](https://link-da-documentação)
+[Exercício15](./Exercicios-de-algoritimo/OPERACAO-BANCARIA-MULTIPLA.ALG)
 
 ### OPERACAO-BANCARIA
 
-[Exercício16](https://link-da-documentação)
+[Exercício16](./Exercicios-de-algoritimo/OPERACAO-BANCARIA.ALG)
 
 ### OPERACOES-MATEMATICA
 
-[Exercício17](https://link-da-documentação)
+[Exercício17](./Exercicios-de-algoritimo/OPERACOES-MATEMATICA.ALG)
 
 ### PRODUTOS
 
-[Exercício18](https://link-da-documentação)
+[Exercício18](./Exercicios-de-algoritimo/PRODUTOS.ALG)
 
 ### SAQUES
 
-[Exercício19](https://link-da-documentação)
+[Exercício19](./Exercicios-de-algoritimo/SAQUES.ALG)
 
 ### SOLICITAR-IDADE
 
-[Exercício20](https://link-da-documentação)
+[Exercício20](./Exercicios-de-algoritimo/SOLICITAR-IDADE.ALG)
 
 ### SOMA-DOS-100
 
-[Exercício21](https://link-da-documentação)
+[Exercício21](./Exercicios-de-algoritimo/SOMA-DOS-100.ALG)
 
 ### TABUADA-COM-ENQUANTO
 
-[Exercício22](https://link-da-documentação)
+[Exercício22](./Exercicios-de-algoritimo/TABUADA-COM-ENQUANTO.ALG)
 
 ### TABUADA
 
-[Exercício23](https://link-da-documentação)
+[Exercício23](./Exercicios-de-algoritimo/TABUADA.ALG)
 
 ### VALIDAR-CARTAO
 
-[Exercício24](https://link-da-documentação)
+[Exercício24](./Exercicios-de-algoritimo/VALIDAR-CARTAO.ALG)
 
 ### Raciocínio-lógico-e-Algoritimo
 
-[Exercício25](https://link-da-documentação)
-
+[Exercício25](./Racioc%C3%ADnio-l%C3%B3gico-e-Algoritimo/Racioc%C3%ADnio-l%C3%B3gico-e-Algoritimo.txt)
