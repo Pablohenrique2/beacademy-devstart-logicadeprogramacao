@@ -4,13 +4,11 @@ Esse repositório foi criado com intuito de armazenar os exercícios propostos n
 
 ## Resolução dos Exercícios
 
-### ACESSAR-SISTEMA-1
 
-[### ACESSAR-SISTEMA-1](./Exercicios-de-algoritimo/ACESSAR-SISTEMA.ALG)
+[.ACESSAR-SISTEMA-1](./Exercicios-de-algoritimo/ACESSAR-SISTEMA.ALG)
 
-### CADASTRAR-CLIENTE
 
-[Exercício2](./Exercicios-de-algoritimo/CADASTRAR-CLIENTE.ALG)
+[.CADASTRAR-CLIENTE2](./Exercicios-de-algoritimo/CADASTRAR-CLIENTE.ALG)
 
 ### CALCULADORA
 
