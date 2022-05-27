@@ -4,9 +4,9 @@ Esse repositório foi criado com intuito de armazenar os exercícios propostos n
 
 ## Resolução dos Exercícios
 
-### ACESSAR-SISTEMA
+### ACESSAR-SISTEMA-1
 
-[Exercício1](./Exercicios-de-algoritimo/ACESSAR-SISTEMA.ALG)
+[### ACESSAR-SISTEMA-1](./Exercicios-de-algoritimo/ACESSAR-SISTEMA.ALG)
 
 ### CADASTRAR-CLIENTE
 
@@ -103,3 +103,7 @@ Esse repositório foi criado com intuito de armazenar os exercícios propostos n
 ### Raciocínio-lógico-e-Algoritimo
 
 [Exercício25](./Racioc%C3%ADnio-l%C3%B3gico-e-Algoritimo/Racioc%C3%ADnio-l%C3%B3gico-e-Algoritimo.txt)
+## IDE utilizada 
+[VisuAlg](https://visualg3.com.br/)
+## Autor 
+[@Pablohenrique🚀]()
