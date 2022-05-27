@@ -5,103 +5,61 @@ Esse repositório foi criado com intuito de armazenar os exercícios propostos n
 ## Resolução dos Exercícios
 
 
-.[ACESSAR-SISTEMA-1](./Exercicios-de-algoritimo/ACESSAR-SISTEMA.ALG)
+.[ACESSAR-SISTEMA 1](./Exercicios-de-algoritimo/ACESSAR-SISTEMA.ALG)
 
 
-.[CADASTRAR-CLIENTE2](./Exercicios-de-algoritimo/CADASTRAR-CLIENTE.ALG)
+.[CADASTRAR-CLIENTE 2](./Exercicios-de-algoritimo/CADASTRAR-CLIENTE.ALG)
 
-### CALCULADORA
+.[CALCULADORA 3](./Exercicios-de-algoritimo/CALCULADORA.ALG)
 
-[Exercício3](./Exercicios-de-algoritimo/CALCULADORA.ALG)
+.[CALCULANDO-AREA-E-PERIMETRO 4](./Exercicios-de-algoritimo/CALCULANDO-AREA-E-PERIMETRO.ALG)
 
-### CALCULANDO-AREA-E-PERIMETRO
 
-[Exercício4](./Exercicios-de-algoritimo/CALCULANDO-AREA-E-PERIMETRO.ALG)
+.[CALCULANDO-IMC-E-CLASSIFICANDO 5](./Exercicios-de-algoritimo/CALCULANDO-IMC-E-CLASSIFICANDO.ALG)
 
-### CALCULANDO-IMC-E-CLASSIFICANDO
+.[CALCULANDO-IMC 6](./Exercicios-de-algoritimo/CALCULANDO-IMC.ALG)
 
-[Exercício5](./Exercicios-de-algoritimo/CALCULANDO-IMC-E-CLASSIFICANDO.ALG)
+.[CALCULAR-NOTA-ALUNO 7](./Exercicios-de-algoritimo/CALCULAR-NOTA-ALUNO.ALG)
 
-### CALCULANDO-IMC
+.[DEPOSITO-CONTA 8](./Exercicios-de-algoritimo/DEPOSITO-CONTA.ALG)
 
-[Exercício6](./Exercicios-de-algoritimo/CALCULANDO-IMC.ALG)
+.[ENDEREÇO 9](./Exercicios-de-algoritimo/ENDERE%C3%87O.ALG)
 
-### CALCULAR-NOTA-ALUNO
+.[LEITURA-TECLADO 10](./Exercicios-de-algoritimo/LEITURA-TECLADO.ALG)
 
-[Exercício7](./Exercicios-de-algoritimo/CALCULAR-NOTA-ALUNO.ALG)
+.[MATRIZ 11](./Exercicios-de-algoritimo/MATRIZ.ALG)
 
-### DEPOSITO-CONTA
+.[MULTIPLOS-DE-DOIS 12](./Exercicios-de-algoritimo/MULTIPLOS-DE-DOIS.ALG)
 
-[Exercício8](./Exercicios-de-algoritimo/DEPOSITO-CONTA.ALG)
+.[MULTIPLOS-DE-TRES 13](./Exercicios-de-algoritimo/MULTIPLOS-DE-TRES.ALG)
 
-### ENDEREÇO
+.[NOME-IDADE-PESSOA 14](./Exercicios-de-algoritimo/NOME-IDADE-PESSOA.ALG)
 
-[Exercício9](./Exercicios-de-algoritimo/ENDERE%C3%87O.ALG)
+.[OPERACAO-BANCARIA-MULTIPLA 15](./Exercicios-de-algoritimo/OPERACAO-BANCARIA-MULTIPLA.ALG)
 
-### LEITURA-TECLADO
+.[OPERACAO-BANCARIA 16](./Exercicios-de-algoritimo/OPERACAO-BANCARIA.ALG)
 
-[Exercício10](./Exercicios-de-algoritimo/LEITURA-TECLADO.ALG)
+.[OPERACOES-MATEMATICA 17](./Exercicios-de-algoritimo/OPERACOES-MATEMATICA.ALG)
 
-### MATRIZ
+.[PRODUTOS 18](./Exercicios-de-algoritimo/PRODUTOS.ALG)
 
-[Exercício11](./Exercicios-de-algoritimo/MATRIZ.ALG)
+.[SAQUES 19](./Exercicios-de-algoritimo/SAQUES.ALG)
 
-### MULTIPLOS-DE-DOIS
+.[SOLICITAR-IDADE 20](./Exercicios-de-algoritimo/SOLICITAR-IDADE.ALG)
 
-[Exercício12](./Exercicios-de-algoritimo/MULTIPLOS-DE-DOIS.ALG)
 
-### MULTIPLOS-DE-TRES
+.[SOMA-DOS-100 21](./Exercicios-de-algoritimo/SOMA-DOS-100.ALG)
 
-[Exercício13](./Exercicios-de-algoritimo/MULTIPLOS-DE-TRES.ALG)
+.[TABUADA-COM-ENQUANTO 22](./Exercicios-de-algoritimo/TABUADA-COM-ENQUANTO.ALG)
 
-### NOME-IDADE-PESSOA
+.[TABUADA 23](./Exercicios-de-algoritimo/TABUADA.ALG)
 
-[Exercício14](./Exercicios-de-algoritimo/NOME-IDADE-PESSOA.ALG)
+.[VALIDAR-CARTAO 24](./Exercicios-de-algoritimo/VALIDAR-CARTAO.ALG)
 
-### OPERACAO-BANCARIA-MULTIPLA
+.[Raciocínio-lógico-e-Algoritimo 25](./Racioc%C3%ADnio-l%C3%B3gico-e-Algoritimo/Racioc%C3%ADnio-l%C3%B3gico-e-Algoritimo.txt) 
 
-[Exercício15](./Exercicios-de-algoritimo/OPERACAO-BANCARIA-MULTIPLA.ALG)
-
-### OPERACAO-BANCARIA
-
-[Exercício16](./Exercicios-de-algoritimo/OPERACAO-BANCARIA.ALG)
-
-### OPERACOES-MATEMATICA
-
-[Exercício17](./Exercicios-de-algoritimo/OPERACOES-MATEMATICA.ALG)
-
-### PRODUTOS
-
-[Exercício18](./Exercicios-de-algoritimo/PRODUTOS.ALG)
-
-### SAQUES
-
-[Exercício19](./Exercicios-de-algoritimo/SAQUES.ALG)
-
-### SOLICITAR-IDADE
-
-[Exercício20](./Exercicios-de-algoritimo/SOLICITAR-IDADE.ALG)
-
-### SOMA-DOS-100
-
-[Exercício21](./Exercicios-de-algoritimo/SOMA-DOS-100.ALG)
-
-### TABUADA-COM-ENQUANTO
-
-[Exercício22](./Exercicios-de-algoritimo/TABUADA-COM-ENQUANTO.ALG)
-
-### TABUADA
-
-[Exercício23](./Exercicios-de-algoritimo/TABUADA.ALG)
-
-### VALIDAR-CARTAO
-
-[Exercício24](./Exercicios-de-algoritimo/VALIDAR-CARTAO.ALG)
-
-### Raciocínio-lógico-e-Algoritimo
-
-[Exercício25](./Racioc%C3%ADnio-l%C3%B3gico-e-Algoritimo/Racioc%C3%ADnio-l%C3%B3gico-e-Algoritimo.txt)
 ## IDE utilizada 
 [VisuAlg](https://visualg3.com.br/)
+
 ## Autor 
 [@Pablohenrique🚀]()
